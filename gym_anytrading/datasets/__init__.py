@@ -6,3 +6,4 @@ FOREX_EURUSD_1H_ASK = _load_dataset('FOREX_EURUSD_1H_ASK', 'Time')
 
 # Load Stocks datasets
 STOCKS_GOOGL = _load_dataset('STOCKS_GOOGL', 'Date')
+STOCKS_GOOG_TEST = _load_dataset('STOCKS_GOOG_TEST', 'Date')
